@@ -158,28 +158,6 @@ Power-Bi/
 ├── Power Query/
 │
 ├── images/
-│   ├── Project_2_Model_view.png
-│   ├── Project1_Page1.png
-│   └── Project1_Page2.png
-│
-├── Project_1/
-│
-├── Project_2/
-│   ├── Nepal Economic and External Sector Analysis.pbix
-│   └── Nepal Economic and External Sector Analysis.pdf
-│
-└── README.md
-
-##  Repository Structure
-
-```text
-Power-Bi/
-│
-├── DAX/
-│
-├── Power Query/
-│
-├── images/
 │   └── Project_2_Model_view.png
 │
 ├── Project_1/
