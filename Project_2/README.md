@@ -206,7 +206,7 @@ https://trade.ntb.gov.np/downloads-cat/nepal-tourism-statistics
 
 ---
 
-## 🔍 Key Analytical Questions
+##  Key Analytical Questions
 
 The dashboard helps explore questions such as:
 
@@ -220,7 +220,7 @@ The dashboard helps explore questions such as:
 
 ---
 
-## ⚠️ Data Limitations
+##  Data Limitations
 
 - Different datasets cover different time periods.
 - The remittance data used in the dashboard begins in 2022.
